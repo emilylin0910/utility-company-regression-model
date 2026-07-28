@@ -68,4 +68,4 @@ statsmodels
 ## Repo contents
 
 - `HS_Revenue_Forecasting.ipynb` — full analysis notebook (data load, feature engineering, both models, visualizations, forecast comparison, and memo)
-- `AICPA_regressionAnalysisData.csv` — source data (not included here; supply your own copy)
+- `AICPA_regressionAnalysisData.csv` — source data 
